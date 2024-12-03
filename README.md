@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-<img src="https://github.com/KatKabaev/KatKabaev/blob/main/24303.gif" width="200">
+<img src="https://github.com/KatKabaev/KatKabaev/blob/main/68747470733a2.gif" width="200">
