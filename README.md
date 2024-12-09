@@ -3,17 +3,8 @@
    
 * ❓ Ask me about anything related to me and related technologies
 * 🐾 I’m looking to network and make friends here!  
-  
-* ⚡ Fun fact: Enhance life and Make Money ！ 
-
-* 🌊 2025 Goals: Work better and Learn more about Open Source projects
 
 * ☕ Interest: Dogs, Coffee, and Coding. <br><br>
-
-
-
-
-
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
